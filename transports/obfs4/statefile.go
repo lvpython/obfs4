@@ -37,10 +37,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Yawning/goptlib.git"
-	"github.com/Yawning/obfs4.git/common/csrand"
-	"github.com/Yawning/obfs4.git/common/drbg"
-	"github.com/Yawning/obfs4.git/common/ntor"
+	"github.com/lvpython/goptlib"
+	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/Yawning/obfs4/common/drbg"
+	"github.com/Yawning/obfs4/common/ntor"
 )
 
 const (

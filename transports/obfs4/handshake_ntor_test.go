@@ -31,8 +31,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Yawning/obfs4.git/common/ntor"
-	"github.com/Yawning/obfs4.git/common/replayfilter"
+	"github.com/Yawning/obfs4/common/ntor"
+	"github.com/Yawning/obfs4/common/replayfilter"
 )
 
 func TestHandshakeNtorClient(t *testing.T) {

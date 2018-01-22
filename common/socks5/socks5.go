@@ -46,7 +46,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Yawning/goptlib.git"
+	"github.com/lvpython/goptlib"
 )
 
 const (

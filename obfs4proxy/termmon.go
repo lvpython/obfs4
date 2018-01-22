@@ -36,7 +36,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Yawning/obfs4.git/common/log"
+	"github.com/Yawning/obfs4/common/log"
 )
 
 var termMonitorOSInit func(*termMonitor) error

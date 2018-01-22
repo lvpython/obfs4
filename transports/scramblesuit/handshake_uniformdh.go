@@ -36,8 +36,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Yawning/obfs4.git/common/csrand"
-	"github.com/Yawning/obfs4.git/common/uniformdh"
+	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/Yawning/obfs4/common/uniformdh"
 )
 
 const (

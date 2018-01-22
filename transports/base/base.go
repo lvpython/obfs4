@@ -32,7 +32,7 @@ package base
 import (
 	"net"
 
-	"github.com/Yawning/goptlib.git"
+	"github.com/lvpython/goptlib"
 )
 
 type DialFunc func(string, string) (net.Conn, error)

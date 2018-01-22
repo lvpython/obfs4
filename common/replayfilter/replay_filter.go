@@ -40,7 +40,7 @@ import (
 
 	"github.com/dchest/siphash"
 
-	"github.com/Yawning/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4/common/csrand"
 )
 
 // maxFilterSize is the maximum capacity of a replay filter.  This value is

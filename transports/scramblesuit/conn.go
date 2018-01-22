@@ -42,11 +42,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/Yawning/goptlib.git"
-	"github.com/Yawning/obfs4.git/common/csrand"
-	"github.com/Yawning/obfs4.git/common/drbg"
-	"github.com/Yawning/obfs4.git/common/probdist"
-	"github.com/Yawning/obfs4.git/common/uniformdh"
+	"github.com/lvpython/goptlib"
+	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/Yawning/obfs4/common/drbg"
+	"github.com/Yawning/obfs4/common/probdist"
+	"github.com/Yawning/obfs4/common/uniformdh"
 )
 
 const (

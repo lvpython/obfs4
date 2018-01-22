@@ -43,11 +43,11 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"github.com/Yawning/goptlib.git"
-	"github.com/Yawning/obfs4.git/common/log"
-	"github.com/Yawning/obfs4.git/common/socks5"
-	"github.com/Yawning/obfs4.git/transports"
-	"github.com/Yawning/obfs4.git/transports/base"
+	"github.com/lvpython/goptlib"
+	"github.com/Yawning/obfs4/common/log"
+	"github.com/Yawning/obfs4/common/socks5"
+	"github.com/Yawning/obfs4/transports"
+	"github.com/Yawning/obfs4/transports/base"
 )
 
 const (

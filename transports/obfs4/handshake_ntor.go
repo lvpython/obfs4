@@ -38,10 +38,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Yawning/obfs4.git/common/csrand"
-	"github.com/Yawning/obfs4.git/common/ntor"
-	"github.com/Yawning/obfs4.git/common/replayfilter"
-	"github.com/Yawning/obfs4.git/transports/obfs4/framing"
+	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/Yawning/obfs4/common/ntor"
+	"github.com/Yawning/obfs4/common/replayfilter"
+	"github.com/Yawning/obfs4/transports/obfs4/framing"
 )
 
 const (

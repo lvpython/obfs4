@@ -40,9 +40,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Yawning/goptlib.git"
-	"github.com/Yawning/obfs4.git/common/csrand"
-	"github.com/Yawning/obfs4.git/transports/base"
+	"github.com/lvpython/goptlib"
+	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/Yawning/obfs4/transports/base"
 )
 
 const (

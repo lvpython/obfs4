@@ -40,13 +40,13 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Yawning/goptlib.git"
-	"github.com/Yawning/obfs4.git/common/drbg"
-	"github.com/Yawning/obfs4.git/common/ntor"
-	"github.com/Yawning/obfs4.git/common/probdist"
-	"github.com/Yawning/obfs4.git/common/replayfilter"
-	"github.com/Yawning/obfs4.git/transports/base"
-	"github.com/Yawning/obfs4.git/transports/obfs4/framing"
+	"github.com/lvpython/goptlib"
+	"github.com/Yawning/obfs4/common/drbg"
+	"github.com/Yawning/obfs4/common/ntor"
+	"github.com/Yawning/obfs4/common/probdist"
+	"github.com/Yawning/obfs4/common/replayfilter"
+	"github.com/Yawning/obfs4/transports/base"
+	"github.com/Yawning/obfs4/transports/obfs4/framing"
 )
 
 const (

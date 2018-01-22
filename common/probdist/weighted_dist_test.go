@@ -31,7 +31,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Yawning/obfs4.git/common/drbg"
+	"github.com/Yawning/obfs4/common/drbg"
 )
 
 const debug = false
