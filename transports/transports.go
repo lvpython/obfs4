@@ -33,12 +33,12 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Yawning/obfs4/transports/base"
-	"github.com/Yawning/obfs4/transports/meeklite"
-	"github.com/Yawning/obfs4/transports/obfs2"
-	"github.com/Yawning/obfs4/transports/obfs3"
-	"github.com/Yawning/obfs4/transports/obfs4"
-	"github.com/Yawning/obfs4/transports/scramblesuit"
+	"github.com/lvpython/obfs4/transports/base"
+	"github.com/lvpython/obfs4/transports/meeklite"
+	"github.com/lvpython/obfs4/transports/obfs2"
+	"github.com/lvpython/obfs4/transports/obfs3"
+	"github.com/lvpython/obfs4/transports/obfs4"
+	"github.com/lvpython/obfs4/transports/scramblesuit"
 )
 
 var transportMapLock sync.Mutex

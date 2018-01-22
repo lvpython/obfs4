@@ -34,7 +34,7 @@ import (
 	"net"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/transports/base"
+	"github.com/lvpython/obfs4/transports/base"
 )
 
 const transportName = "scramblesuit"

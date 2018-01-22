@@ -37,8 +37,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/Yawning/obfs4/common/csrand"
-	"github.com/Yawning/obfs4/common/drbg"
+	"github.com/lvpython/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/drbg"
 )
 
 const (

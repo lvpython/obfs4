@@ -41,9 +41,9 @@ import (
 	"time"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/common/csrand"
-	"github.com/Yawning/obfs4/common/uniformdh"
-	"github.com/Yawning/obfs4/transports/base"
+	"github.com/lvpython/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/uniformdh"
+	"github.com/lvpython/obfs4/transports/base"
 )
 
 const (

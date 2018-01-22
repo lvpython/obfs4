@@ -43,10 +43,10 @@ import (
 	"time"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/common/csrand"
-	"github.com/Yawning/obfs4/common/drbg"
-	"github.com/Yawning/obfs4/common/probdist"
-	"github.com/Yawning/obfs4/common/uniformdh"
+	"github.com/lvpython/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/drbg"
+	"github.com/lvpython/obfs4/common/probdist"
+	"github.com/lvpython/obfs4/common/uniformdh"
 )
 
 const (

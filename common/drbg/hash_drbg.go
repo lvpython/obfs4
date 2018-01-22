@@ -37,7 +37,7 @@ import (
 
 	"github.com/dchest/siphash"
 
-	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/csrand"
 )
 
 // Size is the length of the HashDrbg output.

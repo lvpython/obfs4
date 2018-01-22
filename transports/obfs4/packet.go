@@ -33,8 +33,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Yawning/obfs4/common/drbg"
-	"github.com/Yawning/obfs4/transports/obfs4/framing"
+	"github.com/lvpython/obfs4/common/drbg"
+	"github.com/lvpython/obfs4/transports/obfs4/framing"
 )
 
 const (

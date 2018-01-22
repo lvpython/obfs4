@@ -42,7 +42,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/csrand"
 )
 
 const (

@@ -48,7 +48,7 @@ import (
 
 	"github.com/agl/ed25519/extra25519"
 
-	"github.com/Yawning/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/csrand"
 )
 
 const (

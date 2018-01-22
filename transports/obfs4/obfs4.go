@@ -41,12 +41,12 @@ import (
 	"time"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/common/drbg"
-	"github.com/Yawning/obfs4/common/ntor"
-	"github.com/Yawning/obfs4/common/probdist"
-	"github.com/Yawning/obfs4/common/replayfilter"
-	"github.com/Yawning/obfs4/transports/base"
-	"github.com/Yawning/obfs4/transports/obfs4/framing"
+	"github.com/lvpython/obfs4/common/drbg"
+	"github.com/lvpython/obfs4/common/ntor"
+	"github.com/lvpython/obfs4/common/probdist"
+	"github.com/lvpython/obfs4/common/replayfilter"
+	"github.com/lvpython/obfs4/transports/base"
+	"github.com/lvpython/obfs4/transports/obfs4/framing"
 )
 
 const (

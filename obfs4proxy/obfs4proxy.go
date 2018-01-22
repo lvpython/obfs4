@@ -44,10 +44,10 @@ import (
 	"golang.org/x/net/proxy"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/common/log"
-	"github.com/Yawning/obfs4/common/socks5"
-	"github.com/Yawning/obfs4/transports"
-	"github.com/Yawning/obfs4/transports/base"
+	"github.com/lvpython/obfs4/common/log"
+	"github.com/lvpython/obfs4/common/socks5"
+	"github.com/lvpython/obfs4/transports"
+	"github.com/lvpython/obfs4/transports/base"
 )
 
 const (

@@ -38,9 +38,9 @@ import (
 	"strings"
 
 	"github.com/lvpython/goptlib"
-	"github.com/Yawning/obfs4/common/csrand"
-	"github.com/Yawning/obfs4/common/drbg"
-	"github.com/Yawning/obfs4/common/ntor"
+	"github.com/lvpython/obfs4/common/csrand"
+	"github.com/lvpython/obfs4/common/drbg"
+	"github.com/lvpython/obfs4/common/ntor"
 )
 
 const (

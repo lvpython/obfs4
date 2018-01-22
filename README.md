@@ -43,7 +43,7 @@ listed for clarity.
 ### Installation
 
 To build:
-`go get github.com/Yawning/obfs4/obfs4proxy`
+`go get github.com/lvpython/obfs4/obfs4proxy`
 
 To install:
 Copy `$GOPATH/bin/obfs4proxy` to a permanent location (Eg: `/usr/local/bin`)
