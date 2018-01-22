@@ -69,8 +69,8 @@ import (
 
 	"golang.org/x/crypto/nacl/secretbox"
 
-	"git.torproject.org/pluggable-transports/obfs4.git/common/csrand"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/drbg"
+	"github.com/Yawning/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4.git/common/drbg"
 )
 
 const (

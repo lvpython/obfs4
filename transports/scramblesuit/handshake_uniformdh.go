@@ -36,8 +36,8 @@ import (
 	"strconv"
 	"time"
 
-	"git.torproject.org/pluggable-transports/obfs4.git/common/csrand"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/uniformdh"
+	"github.com/Yawning/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4.git/common/uniformdh"
 )
 
 const (

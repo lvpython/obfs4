@@ -40,9 +40,9 @@ import (
 	"net"
 	"time"
 
-	"git.torproject.org/pluggable-transports/goptlib.git"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/csrand"
-	"git.torproject.org/pluggable-transports/obfs4.git/transports/base"
+	"github.com/Yawning/goptlib.git"
+	"github.com/Yawning/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4.git/transports/base"
 )
 
 const (

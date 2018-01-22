@@ -5,7 +5,7 @@ package socks5
 import (
 	"testing"
 
-	"git.torproject.org/pluggable-transports/goptlib.git"
+	"github.com/Yawning/goptlib.git"
 )
 
 func stringSlicesEqual(a, b []string) bool {

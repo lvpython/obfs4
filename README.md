@@ -38,12 +38,12 @@ listed for clarity.
  * go.net (https://golang.org/x/net)
  * ed25519/extra25519 (https://github.com/agl/ed25519/extra25519)
  * SipHash-2-4 (https://github.com/dchest/siphash)
- * goptlib (https://git.torproject.org/pluggable-transports/goptlib.git)
+ * goptlib (https://github.com/Yawning/goptlib.git)
 
 ### Installation
 
 To build:
-`go get git.torproject.org/pluggable-transports/obfs4.git/obfs4proxy`
+`go get github.com/Yawning/obfs4.git/obfs4proxy`
 
 To install:
 Copy `$GOPATH/bin/obfs4proxy` to a permanent location (Eg: `/usr/local/bin`)

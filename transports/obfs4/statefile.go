@@ -37,10 +37,10 @@ import (
 	"strconv"
 	"strings"
 
-	"git.torproject.org/pluggable-transports/goptlib.git"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/csrand"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/drbg"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/ntor"
+	"github.com/Yawning/goptlib.git"
+	"github.com/Yawning/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4.git/common/drbg"
+	"github.com/Yawning/obfs4.git/common/ntor"
 )
 
 const (

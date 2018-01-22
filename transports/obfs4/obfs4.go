@@ -40,13 +40,13 @@ import (
 	"syscall"
 	"time"
 
-	"git.torproject.org/pluggable-transports/goptlib.git"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/drbg"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/ntor"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/probdist"
-	"git.torproject.org/pluggable-transports/obfs4.git/common/replayfilter"
-	"git.torproject.org/pluggable-transports/obfs4.git/transports/base"
-	"git.torproject.org/pluggable-transports/obfs4.git/transports/obfs4/framing"
+	"github.com/Yawning/goptlib.git"
+	"github.com/Yawning/obfs4.git/common/drbg"
+	"github.com/Yawning/obfs4.git/common/ntor"
+	"github.com/Yawning/obfs4.git/common/probdist"
+	"github.com/Yawning/obfs4.git/common/replayfilter"
+	"github.com/Yawning/obfs4.git/transports/base"
+	"github.com/Yawning/obfs4.git/transports/obfs4/framing"
 )
 
 const (

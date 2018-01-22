@@ -48,7 +48,7 @@ import (
 
 	"github.com/agl/ed25519/extra25519"
 
-	"git.torproject.org/pluggable-transports/obfs4.git/common/csrand"
+	"github.com/Yawning/obfs4.git/common/csrand"
 )
 
 const (
